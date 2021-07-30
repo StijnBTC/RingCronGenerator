@@ -59,6 +59,6 @@ case $1 in
         help
         ;;
     * )
-        schedule
+        help
         ;;
 esac
